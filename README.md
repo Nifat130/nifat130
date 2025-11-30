@@ -56,7 +56,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
   <h3>⚡ GitHub Contribution Details</h3>
 <hr/>
   <p align="center">
-    <a href="https://github.com/golamshakib">
+    <a href="https://github.com/Nifat130">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golamshakib&theme=radical" 
         alt="Shakib's GitHub Contribution" 
@@ -67,12 +67,12 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
  
   <p align="center"  >
     <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=golamshakib&theme=radical" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nifat130&theme=radical" 
       alt="Stats" 
       width="40%" 
     />
     <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=golamshakib&theme=radical" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nifat130&theme=radical" 
       alt="Commits" 
       width="40%" 
     />
@@ -102,7 +102,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 <div align="center">
   <!-- 🔥 GitHub Streak -->
   <img 
-    src="https://streak-stats.demolab.com?user=golamshakib&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
+    src="https://streak-stats.demolab.com?user=Nifat130&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
     alt="Shakib's GitHub Streak" 
     width="70%" 
     style="margin-bottom: 10px;"
@@ -111,7 +111,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
  <!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=golamshakib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068" 
+    src="https://github-readme-stats.vercel.app/api?username=Nifat130&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068" 
     alt="Shakib's GitHub Stats" 
     width="48%" 
     style="margin-right: 1%;"

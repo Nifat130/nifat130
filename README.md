@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <p align="center">
     <a href="https://github.com/Nifat130">
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golamshakib&theme=radical" 
-        alt="Shakib's GitHub Contribution" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nifat130&theme=radical" 
+        alt="Nifat's GitHub Contribution." 
         width="75%" 
       />
     </a>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!-- <div align="center">
  <h3>🐍 My Contributions 🐍</h3>
     <hr/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/golamshakib/golamshakib/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/golamNifat/golamNifat/output/github-contribution-grid-snake.svg" />
   
   <br/>
 </div>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <!-- 🔥 GitHub Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=Nifat130&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
-    alt="Shakib's GitHub Streak" 
+    alt="Nifat's GitHub Streak." 
     width="70%" 
     style="margin-bottom: 10px;"
   /> 
@@ -76,18 +76,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Nifat130&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068" 
-    alt="Shakib's GitHub Stats" 
+    alt="Nifat's GitHub Stats." 
     width="48%" 
     style="margin-right: 1%;"
   />
-
-<!--
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=golamshakib&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8" 
-    alt="Shakib's Top Languages" 
-    width="48%" 
-  />
-  -->
 </div>
 
 </div>

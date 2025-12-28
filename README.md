@@ -57,14 +57,10 @@ Here are some ideas to get you started:
 <hr/> -->
 
 <!-- My Stats -->
-
-
-<div align="center">
-  <h3>🔥 My Stats</h3>
-  <hr/>
     
 <div align="center">
   <!-- 🔥 GitHub Streak -->
+<h2>🔥 GitHub Streak</h2>
 
 <img
   src="https://github-readme-streak-stats-eight.vercel.app/?user=Nifat130&theme=tokyonight&hide_border=true"

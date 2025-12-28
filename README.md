@@ -65,9 +65,14 @@ Here are some ideas to get you started:
     
 <div align="center">
   <!-- 🔥 GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Nifat130&theme=tokyonight&hide_border=true&background=0D1117"
-     alt="Nifat's GitHub Streak."
-     width="500" />
+  <h2>🔥 GitHub Streak</h2>
+
+<img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=Nifat130&theme=tokyonight&hide_border=true"
+  alt="Nifat's GitHub Streak."
+  width="500"
+/>
+
 
 
  <!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->

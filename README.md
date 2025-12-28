@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   <h2>📊 GitHub Stats</h2>
 
 <img
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nifat130&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068"
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nifat130&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=bf91f3&text_color=67E8F9&icon_color=#bf91f3"
   alt="Nifat's GitHub Stats."
   width="480"
 />

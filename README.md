@@ -65,7 +65,6 @@ Here are some ideas to get you started:
     
 <div align="center">
   <!-- 🔥 GitHub Streak -->
-  <h2>🔥 GitHub Streak</h2>
 
 <img
   src="https://github-readme-streak-stats-eight.vercel.app/?user=Nifat130&theme=tokyonight&hide_border=true"
@@ -77,12 +76,14 @@ Here are some ideas to get you started:
 
  <!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Nifat130&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068" 
-    alt="Nifat's GitHub Stats." 
-    width="48%" 
-    style="margin-right: 1%;"
-  />
+  <h2>📊 GitHub Stats</h2>
+
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nifat130&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068"
+  alt="Nifat's GitHub Stats."
+  width="480"
+/>
+
 </div>
 
 </div>

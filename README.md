@@ -1,4 +1,4 @@
-## Hello I am Nifat 👋
+## Hello I am Nifat Chowdhury Mahin 👋
 
 <!--
 **Nifat130/nifat130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

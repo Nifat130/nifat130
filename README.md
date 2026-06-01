@@ -1,4 +1,5 @@
 ## Hello I am Nifat Chowdhury Mahin 👋
+A Flutter Developer. I believe in clean code, robust architecture, and a user-first approach. My expertise lies in building high-performance cross-platform applications with seamless animations and scalable backends.
 
 <!--
 **Nifat130/nifat130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

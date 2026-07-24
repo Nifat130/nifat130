@@ -1,4 +1,4 @@
-## Hello I am Nifat Chowdhury Mahin 👋
+## Hello, I am Nifat Chowdhury Mahin 👋
 A Flutter Developer. I believe in clean code, robust architecture, and a user-first approach. My expertise lies in building high-performance cross-platform applications with seamless animations and scalable backends.
 
 <!--
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Contribution Details -->
-<div align="center">
+<!-- <div align="center">
   <h3>⚡ GitHub Contribution Details</h3>
 <hr/>
   <p align="center">
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     />
   </p>
 
-<hr/>
+<hr/> -->
 
 <!-- Snake Contributions-->
 
@@ -59,20 +59,20 @@ Here are some ideas to get you started:
 
 <!-- My Stats -->
     
-<div align="center">
+<!-- <div align="center"> -->
   <!-- 🔥 GitHub Streak -->
-<h2>🔥 GitHub Streak</h2>
+<!-- <h2>🔥 GitHub Streak</h2> -->
 
-<img
+<!-- <img
   src="https://github-readme-streak-stats-eight.vercel.app/?user=Nifat130&theme=tokyonight&hide_border=true"
   alt="Nifat's GitHub Streak."
   width="500"
-/>
+/> -->
 
 
 
  <!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->
-<div align="center">
+<!-- <div align="center">
   <h2>📊 GitHub Stats</h2>
 
 <img
@@ -83,8 +83,8 @@ Here are some ideas to get you started:
 
 </div>
 
-</div>
+</div> -->
 
 
 
-<br/>
+<!-- <br/> -->

@@ -48,19 +48,26 @@ Here are some ideas to get you started:
 <!-- Snake Contributions-->
 
 <div align="center">
- <h3>🐍 My Contributions 🐍</h3>
-    <hr/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/golamNifat/golamNifat/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
+
+<h3>🐍 My Contributions 🐍</h3>
+
+<hr/>
+
+<img
+  alt="snake eating my contributions"
+  src="https://raw.githubusercontent.com/golamNifat/golamNifat/output/github-contribution-grid-snake.svg"
+/>
+
+<br/>
+
 </div>
 
-<hr/> 
+<hr/>
 
 <!-- My Stats -->
-    
-<div align="center"> 
-  🔥 GitHub Streak 
+
+<div align="center">
+  <!-- 🔥 GitHub Streak  -->
 <h2>🔥 GitHub Streak</h2> 
 
 <img

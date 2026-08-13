@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <!-- GitHub Contribution Details -->
  <div align="center">
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     />
   </p>
 
-<hr/> -->
+<hr/> 
 
 <!-- Snake Contributions-->
 
@@ -55,19 +55,19 @@ Here are some ideas to get you started:
   <br/>
 </div>
 
-<hr/> -->
+<hr/> 
 
 <!-- My Stats -->
     
-<div align="center"> -->
-  🔥 GitHub Streak -->
-<h2>🔥 GitHub Streak</h2> -->
+<div align="center"> 
+  🔥 GitHub Streak 
+<h2>🔥 GitHub Streak</h2> 
 
 <img
   src="https://github-readme-streak-stats-eight.vercel.app/?user=Nifat130&theme=tokyonight&hide_border=true"
   alt="Nifat's GitHub Streak."
   width="500"
-/> -->
+/> 
 
 
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 </div>
 
-</div> -->
+</div> 
 
 
 

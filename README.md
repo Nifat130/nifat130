@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <!-- Snake Contributions-->
 
-<div align="center">
+<!-- <div align="center">
 
 <h3>🐍 My Contributions 🐍</h3>
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<hr/>
+<hr/> -->
 
 <!-- My Stats -->
 

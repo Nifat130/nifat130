@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 
  <!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->
-<div align="center">
+<!-- <div align="center">
   <h2>📊 GitHub Stats</h2>
 
 <img
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   width="480"
 />
 
-</div>
+</div> -->
 
 </div> 
 
